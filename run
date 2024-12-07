@@ -1,1 +1,3 @@
 cargo run path/to/game.json
+
+use chess5dlib::game::*;
